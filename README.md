@@ -1,4 +1,4 @@
-# Analysis_of_the_Job_Market_Data_Analysts
+# Analysis of the Job Market for Data Analysts
 
 
 ![Illustration](dataanalyst.jpg)
