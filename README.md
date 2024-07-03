@@ -1,10 +1,23 @@
 # Analysis_of_the_Job_Market_Data_Analysts
 
+---
+Technologies: Python (pandas, numpy, matplotlib.pyplot, seaborn, requests, BeautifulSoup)
+---
+
 ![Illustration](dataanalyst.jpg)
 
 **Objective**:
 
 The project aims to analyze the job market for data analysts in the USA. Key questions of interest include: How does the salary level of data analysts correlate with the average income per capita in different states, and how in-demand are data analysts? Another objective is to identify the states that are most attractive based on the relationship between salary, income level, and the number of job openings.
+
+---
+This project involved the following technologies:
+
+Data Manipulation and Analysis: pandas, numpy
+Data Visualization: matplotlib.pyplot, seaborn
+Data Collection and Web Scraping: requests, BeautifulSoup
+
+Utilized these tools to gather data from open sources, clean and analyze the data, and visualize the findings to provide insights into the job market for data analysts, focusing on salary levels and demand across various states.
 
 ---
 
