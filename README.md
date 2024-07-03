@@ -29,6 +29,7 @@ These tools were used to gather data from open sources, clean and analyze the da
 The project utilizes web scraping technology to gather information from open sources, as well as publicly available data that reflects job openings present in the market.
 
 ---
+**Folder File Description**
 
 | Folder | File | Description |
 |-----------------|-----------------|-----------------|
